@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *
- * @author Hp
+ * @author lumiere
  */
 public class Karyawan {
     private String dbName;
@@ -23,6 +23,7 @@ public class Karyawan {
     private String dbPassword;
     private String dbUrl;
     private String tableName;
+    
     Connection connect;
     
     private String id;

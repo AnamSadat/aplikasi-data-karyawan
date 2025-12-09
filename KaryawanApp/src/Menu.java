@@ -10,7 +10,7 @@ import karyawan.Karyawan;
 
 /**
  *
- * @author Hp
+ * @author lumiere
  */
 public class Menu extends javax.swing.JFrame {
     
