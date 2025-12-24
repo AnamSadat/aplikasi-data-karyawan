@@ -8,3 +8,5 @@ aplikasi_data_karyawan/.env
 /karyawan/build/
 /KaryawanApp/nbproject/private/
 /KaryawanApp/build/
+/LoginApps/nbproject/private/
+/LoginApps/build/
